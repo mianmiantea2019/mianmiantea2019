@@ -2,8 +2,7 @@
       Hi there 👋 ! My name is Christy Guo. 
  </h3>
  
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E15D&width=435&lines=Fullstack+Software+Engineer" alt="Typing SVG" /></a>
-<p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E15D&width=435&lines=+++++Fullstack+Software+Engineer;practitioner+of+Modern+Software+Development+and+Agile+Practices)](https://git.io/typing-svg)
 
 
 ## Let's Get Connected!
