@@ -2,9 +2,19 @@
       Hi there 👋 ! My name is Christy Guo. 
  </h3>
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E15D&width=435&lines=+++++Fullstack+Software+Engineer;Practitioner+of+Agile+Practices)](https://git.io/typing-svg)
+==================================================================================================================================
 
+Full Stack Engineer
+-------------------
 
+I've been learn coding for 3 years. After I completed the Harvard CS50 course , I started learn javascript and Java. 
+
+*   🌍  I'm based in Altanta, GA
+*   ✉️  You can contact me at [simguoc@gmail.com](mailto:simguoc@gmail.com)
+*   🚀  I'm currently working on [FeedsApp](https://lit-cove-88468-0beb0a424a06.herokuapp.com)
+*   🧠  I'm learning Redis, Spring Boot
+
+  
 ## Let's Get Connected!
 [![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGg...&color=D14836)](https://christyguo-ed683.firebaseapp.com/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christy-g-b1b1295a/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simguoc@gmail.com)
 
