@@ -5,7 +5,7 @@ Full Stack Engineer
 -------------------
 
 
-I've been learn coding for 3 years. After I completed the Harvard CS50 course , I started learn javascript and Java. 
+I've been learning coding for 3 years. After completing the Harvard CS50 course, I started learning JavaScript and Java.
 
 *   🌍  I'm based in Altanta, GA
 *   ✉️  You can contact me at [simguoc@gmail.com](mailto:simguoc@gmail.com)
