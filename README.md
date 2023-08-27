@@ -9,7 +9,7 @@ I've been learning coding for 3 years. After completing the Harvard CS50 course,
 
 *   🌍  I'm based in Altanta, GA
 *   ✉️  You can contact me at [simguoc@gmail.com](mailto:simguoc@gmail.com)
-*   🚀  I'm currently working on [FeedsApp](https://lit-cove-88468-0beb0a424a06.herokuapp.com)
+*   🚀  I'm currently working on [FeedsApp](https://github.com/mianmiantea2019/Feeds_App)
 *   🧠  I'm learning Redis, Spring Boot
 
   
