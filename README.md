@@ -5,8 +5,6 @@ Full Stack Engineer
 -------------------
 
 
-I've been learning coding for 3 years. After completing the Harvard CS50 course, I started learning JavaScript and Java.
-
 *   🌍  I'm based in Altanta, GA
 *   ✉️  You can contact me at [simguoc@gmail.com](mailto:simguoc@gmail.com)
 *   🚀  I'm currently working on [FeedsApp](https://github.com/mianmiantea2019/Feeds_App)
