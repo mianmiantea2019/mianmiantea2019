@@ -12,7 +12,7 @@ Full Stack Engineer
 
   
 ## Let's Get Connected!
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christy-g-b1b1295a/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simguoc@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGg...&color=D14836)](https://christyguo-ed683.firebaseapp.com/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christy-g-b1b1295a/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simguoc@gmail.com)
 
 
  💻 Tech Stack:
