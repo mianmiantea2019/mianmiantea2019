@@ -7,7 +7,7 @@ Full Stack Engineer
 
 *   🌍  I'm based in Altanta, GA
 *   ✉️  You can contact me at [simguoc@gmail.com](mailto:simguoc@gmail.com)
-*   🚀  I'm currently working on [FeedsApp](https://github.com/mianmiantea2019/Feeds_App)  [ShareAPI](https://github.com/mianmiantea2019/ShareApi)
+*   🚀  I'm currently working on [FeedsApp](https://github.com/mianmiantea2019/Feeds_App) and [ShareAPI](https://github.com/mianmiantea2019/ShareApi)
 *   🧠  I'm learning Redis, Spring Cloud
 
   
