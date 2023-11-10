@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Engineer
 -------------------
 
-
-*   🌍  I'm based in Altanta, GA
 *   ✉️  You can contact me at [mianmianguo2016@gmail.com](mailto:mianmianguo2016@gmail.com)
 *   🚀  I'm currently working on [FeedsApp](https://github.com/mianmiantea2019/Feeds_App) and [ShareAPI](https://github.com/mianmiantea2019/ShareApi)
 *   🧠  I'm learning Redis, Spring Cloud
