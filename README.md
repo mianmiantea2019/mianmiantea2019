@@ -5,7 +5,7 @@ Full Stack Engineer
 -------------------
 
 *   🔔  My Profolio [https://christyguodev.com/](https://christyguodev.com/)
-*   ✉️  You can contact me at [mianmianguo2016@gmail.com](mailto:mianmianguo2016@gmail.com)
+*   ✉️  You can contact me at [simcguo2024@gmail.com](mailto:simcguo2024@gmail.com)
 *   🚀  I'm currently working on [FeedsApp](https://github.com/mianmiantea2019/Feeds_App) and [ShareAPI](https://github.com/mianmiantea2019/ShareApi)
 *   🧠  I'm learning Redis, Spring Cloud
 
